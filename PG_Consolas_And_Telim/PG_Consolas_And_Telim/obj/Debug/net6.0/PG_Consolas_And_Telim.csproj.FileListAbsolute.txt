@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\bin\Debug\net6.0\PG_Consolas_And_Telim.exe
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\bin\Debug\net6.0\PG_Consolas_And_Telim.deps.json
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\bin\Debug\net6.0\PG_Consolas_And_Telim.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\bin\Debug\net6.0\PG_Consolas_And_Telim.dll
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\bin\Debug\net6.0\PG_Consolas_And_Telim.pdb
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\PG_Consolas_And_Telim.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\PG_Consolas_And_Telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\PG_Consolas_And_Telim.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\PG_Consolas_And_Telim.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\PG_Consolas_And_Telim.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\PG_Consolas_And_Telim.dll
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\refint\PG_Consolas_And_Telim.dll
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\PG_Consolas_And_Telim.pdb
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\PG_Consolas_And_Telim.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Consolas_And_Telim\PG_Consolas_And_Telim\obj\Debug\net6.0\ref\PG_Consolas_And_Telim.dll

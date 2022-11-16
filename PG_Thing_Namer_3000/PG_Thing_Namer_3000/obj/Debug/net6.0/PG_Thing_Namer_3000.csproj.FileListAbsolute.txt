@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\bin\Debug\net6.0\PG_Thing_Namer_3000.exe
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\bin\Debug\net6.0\PG_Thing_Namer_3000.deps.json
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\bin\Debug\net6.0\PG_Thing_Namer_3000.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\bin\Debug\net6.0\PG_Thing_Namer_3000.dll
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\bin\Debug\net6.0\PG_Thing_Namer_3000.pdb
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\PG_Thing_Namer_3000.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\PG_Thing_Namer_3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\PG_Thing_Namer_3000.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\PG_Thing_Namer_3000.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\PG_Thing_Namer_3000.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\PG_Thing_Namer_3000.dll
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\refint\PG_Thing_Namer_3000.dll
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\PG_Thing_Namer_3000.pdb
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\PG_Thing_Namer_3000.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Thing_Namer_3000\PG_Thing_Namer_3000\obj\Debug\net6.0\ref\PG_Thing_Namer_3000.dll

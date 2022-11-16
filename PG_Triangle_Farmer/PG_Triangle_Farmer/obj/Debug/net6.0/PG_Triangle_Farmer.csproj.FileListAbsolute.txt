@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\bin\Debug\net6.0\PG_Triangle_Farmer.exe
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\bin\Debug\net6.0\PG_Triangle_Farmer.deps.json
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\bin\Debug\net6.0\PG_Triangle_Farmer.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\bin\Debug\net6.0\PG_Triangle_Farmer.dll
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\bin\Debug\net6.0\PG_Triangle_Farmer.pdb
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\PG_Triangle_Farmer.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\PG_Triangle_Farmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\PG_Triangle_Farmer.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\PG_Triangle_Farmer.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\PG_Triangle_Farmer.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\PG_Triangle_Farmer.dll
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\refint\PG_Triangle_Farmer.dll
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\PG_Triangle_Farmer.pdb
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\PG_Triangle_Farmer.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Triangle_Farmer\PG_Triangle_Farmer\obj\Debug\net6.0\ref\PG_Triangle_Farmer.dll

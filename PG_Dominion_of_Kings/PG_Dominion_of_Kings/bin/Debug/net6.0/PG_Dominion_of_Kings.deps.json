@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PG_Dominion_of_Kings/1.0.0": {
+        "runtime": {
+          "PG_Dominion_of_Kings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PG_Dominion_of_Kings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

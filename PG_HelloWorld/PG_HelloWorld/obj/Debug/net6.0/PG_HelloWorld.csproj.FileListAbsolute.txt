@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\bin\Debug\net6.0\PG_HelloWorld.exe
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\bin\Debug\net6.0\PG_HelloWorld.deps.json
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\bin\Debug\net6.0\PG_HelloWorld.runtimeconfig.json
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\bin\Debug\net6.0\PG_HelloWorld.dll
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\bin\Debug\net6.0\PG_HelloWorld.pdb
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\PG_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\PG_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\PG_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\PG_HelloWorld.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\PG_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\PG_HelloWorld.dll
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\refint\PG_HelloWorld.dll
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\PG_HelloWorld.pdb
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\PG_HelloWorld.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_HelloWorld\PG_HelloWorld\obj\Debug\net6.0\ref\PG_HelloWorld.dll

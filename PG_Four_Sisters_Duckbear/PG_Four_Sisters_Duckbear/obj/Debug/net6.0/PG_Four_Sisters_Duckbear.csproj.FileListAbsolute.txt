@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\bin\Debug\net6.0\PG_Four_Sisters_Duckbear.exe
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\bin\Debug\net6.0\PG_Four_Sisters_Duckbear.deps.json
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\bin\Debug\net6.0\PG_Four_Sisters_Duckbear.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\bin\Debug\net6.0\PG_Four_Sisters_Duckbear.dll
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\bin\Debug\net6.0\PG_Four_Sisters_Duckbear.pdb
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\PG_Four_Sisters_Duckbear.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\PG_Four_Sisters_Duckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\PG_Four_Sisters_Duckbear.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\PG_Four_Sisters_Duckbear.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\PG_Four_Sisters_Duckbear.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\PG_Four_Sisters_Duckbear.dll
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\refint\PG_Four_Sisters_Duckbear.dll
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\PG_Four_Sisters_Duckbear.pdb
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\PG_Four_Sisters_Duckbear.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Four_Sisters_Duckbear\PG_Four_Sisters_Duckbear\obj\Debug\net6.0\ref\PG_Four_Sisters_Duckbear.dll

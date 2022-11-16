@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\bin\Debug\net6.0\PG_Dominion_of_Kings.exe
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\bin\Debug\net6.0\PG_Dominion_of_Kings.deps.json
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\bin\Debug\net6.0\PG_Dominion_of_Kings.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\bin\Debug\net6.0\PG_Dominion_of_Kings.dll
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\bin\Debug\net6.0\PG_Dominion_of_Kings.pdb
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\PG_Dominion_of_Kings.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\PG_Dominion_of_Kings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\PG_Dominion_of_Kings.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\PG_Dominion_of_Kings.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\PG_Dominion_of_Kings.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\PG_Dominion_of_Kings.dll
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\refint\PG_Dominion_of_Kings.dll
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\PG_Dominion_of_Kings.pdb
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\PG_Dominion_of_Kings.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Dominion_of_Kings\PG_Dominion_of_Kings\obj\Debug\net6.0\ref\PG_Dominion_of_Kings.dll
