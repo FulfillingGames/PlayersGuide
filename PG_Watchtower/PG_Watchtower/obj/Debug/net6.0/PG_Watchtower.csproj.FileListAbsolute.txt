@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\bin\Debug\net6.0\PG_Watchtower.exe
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\bin\Debug\net6.0\PG_Watchtower.deps.json
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\bin\Debug\net6.0\PG_Watchtower.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\bin\Debug\net6.0\PG_Watchtower.dll
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\bin\Debug\net6.0\PG_Watchtower.pdb
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\PG_Watchtower.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\PG_Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\PG_Watchtower.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\PG_Watchtower.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\PG_Watchtower.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\PG_Watchtower.dll
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\refint\PG_Watchtower.dll
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\PG_Watchtower.pdb
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\PG_Watchtower.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Watchtower\PG_Watchtower\obj\Debug\net6.0\ref\PG_Watchtower.dll

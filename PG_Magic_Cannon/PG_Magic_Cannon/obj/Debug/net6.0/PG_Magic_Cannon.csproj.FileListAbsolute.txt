@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\bin\Debug\net6.0\PG_Magic_Cannon.exe
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\bin\Debug\net6.0\PG_Magic_Cannon.deps.json
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\bin\Debug\net6.0\PG_Magic_Cannon.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\bin\Debug\net6.0\PG_Magic_Cannon.dll
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\bin\Debug\net6.0\PG_Magic_Cannon.pdb
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\PG_Magic_Cannon.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\PG_Magic_Cannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\PG_Magic_Cannon.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\PG_Magic_Cannon.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\PG_Magic_Cannon.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\PG_Magic_Cannon.dll
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\refint\PG_Magic_Cannon.dll
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\PG_Magic_Cannon.pdb
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\PG_Magic_Cannon.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Magic_Cannon\PG_Magic_Cannon\obj\Debug\net6.0\ref\PG_Magic_Cannon.dll

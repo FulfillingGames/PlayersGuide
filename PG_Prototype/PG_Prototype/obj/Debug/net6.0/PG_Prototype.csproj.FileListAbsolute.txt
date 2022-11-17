@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\bin\Debug\net6.0\PG_Prototype.exe
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\bin\Debug\net6.0\PG_Prototype.deps.json
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\bin\Debug\net6.0\PG_Prototype.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\bin\Debug\net6.0\PG_Prototype.dll
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\bin\Debug\net6.0\PG_Prototype.pdb
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\PG_Prototype.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\PG_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\PG_Prototype.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\PG_Prototype.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\PG_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\PG_Prototype.dll
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\refint\PG_Prototype.dll
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\PG_Prototype.pdb
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\PG_Prototype.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Prototype\PG_Prototype\obj\Debug\net6.0\ref\PG_Prototype.dll
