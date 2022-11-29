@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\bin\Debug\net6.0\PG_Replicator_Dto.exe
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\bin\Debug\net6.0\PG_Replicator_Dto.deps.json
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\bin\Debug\net6.0\PG_Replicator_Dto.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\bin\Debug\net6.0\PG_Replicator_Dto.dll
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\bin\Debug\net6.0\PG_Replicator_Dto.pdb
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\PG_Replicator_Dto.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\PG_Replicator_Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\PG_Replicator_Dto.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\PG_Replicator_Dto.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\PG_Replicator_Dto.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\PG_Replicator_Dto.dll
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\refint\PG_Replicator_Dto.dll
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\PG_Replicator_Dto.pdb
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\PG_Replicator_Dto.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Replicator_Dto\PG_Replicator_Dto\obj\Debug\net6.0\ref\PG_Replicator_Dto.dll

@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\bin\Debug\net6.0\PG_Simulas_Test.exe
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\bin\Debug\net6.0\PG_Simulas_Test.deps.json
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\bin\Debug\net6.0\PG_Simulas_Test.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\bin\Debug\net6.0\PG_Simulas_Test.dll
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\bin\Debug\net6.0\PG_Simulas_Test.pdb
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\PG_Simulas_Test.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\PG_Simulas_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\PG_Simulas_Test.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\PG_Simulas_Test.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\PG_Simulas_Test.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\PG_Simulas_Test.dll
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\refint\PG_Simulas_Test.dll
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\PG_Simulas_Test.pdb
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\PG_Simulas_Test.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Simulas_Test\PG_Simulas_Test\obj\Debug\net6.0\ref\PG_Simulas_Test.dll

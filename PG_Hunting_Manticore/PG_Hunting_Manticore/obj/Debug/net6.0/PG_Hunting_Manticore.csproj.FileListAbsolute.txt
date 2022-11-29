@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\bin\Debug\net6.0\PG_Hunting_Manticore.exe
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\bin\Debug\net6.0\PG_Hunting_Manticore.deps.json
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\bin\Debug\net6.0\PG_Hunting_Manticore.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\bin\Debug\net6.0\PG_Hunting_Manticore.dll
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\bin\Debug\net6.0\PG_Hunting_Manticore.pdb
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\PG_Hunting_Manticore.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\PG_Hunting_Manticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\PG_Hunting_Manticore.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\PG_Hunting_Manticore.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\PG_Hunting_Manticore.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\PG_Hunting_Manticore.dll
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\refint\PG_Hunting_Manticore.dll
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\PG_Hunting_Manticore.pdb
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\PG_Hunting_Manticore.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Hunting_Manticore\PG_Hunting_Manticore\obj\Debug\net6.0\ref\PG_Hunting_Manticore.dll

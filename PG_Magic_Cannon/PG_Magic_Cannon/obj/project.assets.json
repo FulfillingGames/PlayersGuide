@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\warre\\source\\repos\\PG_Magic_Cannon\\PG_Magic_Cannon\\PG_Magic_Cannon.csproj",
+      "projectUniqueName": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Magic_Cannon\\PG_Magic_Cannon\\PG_Magic_Cannon.csproj",
       "projectName": "PG_Magic_Cannon",
-      "projectPath": "C:\\Users\\warre\\source\\repos\\PG_Magic_Cannon\\PG_Magic_Cannon\\PG_Magic_Cannon.csproj",
+      "projectPath": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Magic_Cannon\\PG_Magic_Cannon\\PG_Magic_Cannon.csproj",
       "packagesPath": "C:\\Users\\warre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\warre\\source\\repos\\PG_Magic_Cannon\\PG_Magic_Cannon\\obj\\",
+      "outputPath": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Magic_Cannon\\PG_Magic_Cannon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

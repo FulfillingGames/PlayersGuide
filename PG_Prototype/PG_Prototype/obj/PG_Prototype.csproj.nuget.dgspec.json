@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\warre\\source\\repos\\PG_Prototype\\PG_Prototype\\PG_Prototype.csproj": {}
+    "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Prototype\\PG_Prototype\\PG_Prototype.csproj": {}
   },
   "projects": {
-    "C:\\Users\\warre\\source\\repos\\PG_Prototype\\PG_Prototype\\PG_Prototype.csproj": {
+    "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Prototype\\PG_Prototype\\PG_Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\warre\\source\\repos\\PG_Prototype\\PG_Prototype\\PG_Prototype.csproj",
+        "projectUniqueName": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Prototype\\PG_Prototype\\PG_Prototype.csproj",
         "projectName": "PG_Prototype",
-        "projectPath": "C:\\Users\\warre\\source\\repos\\PG_Prototype\\PG_Prototype\\PG_Prototype.csproj",
+        "projectPath": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Prototype\\PG_Prototype\\PG_Prototype.csproj",
         "packagesPath": "C:\\Users\\warre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\warre\\source\\repos\\PG_Prototype\\PG_Prototype\\obj\\",
+        "outputPath": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Prototype\\PG_Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

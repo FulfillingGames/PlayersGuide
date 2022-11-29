@@ -1,0 +1,15 @@
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\bin\Debug\net6.0\PG_Laws_Freach.exe
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\bin\Debug\net6.0\PG_Laws_Freach.deps.json
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\bin\Debug\net6.0\PG_Laws_Freach.runtimeconfig.json
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\bin\Debug\net6.0\PG_Laws_Freach.dll
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\bin\Debug\net6.0\PG_Laws_Freach.pdb
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\PG_Laws_Freach.csproj.AssemblyReference.cache
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\PG_Laws_Freach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\PG_Laws_Freach.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\PG_Laws_Freach.AssemblyInfo.cs
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\PG_Laws_Freach.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\PG_Laws_Freach.dll
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\refint\PG_Laws_Freach.dll
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\PG_Laws_Freach.pdb
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\PG_Laws_Freach.genruntimeconfig.cache
+C:\Users\warre\source\repos\PG_Laws_Freach\PG_Laws_Freach\obj\Debug\net6.0\ref\PG_Laws_Freach.dll
