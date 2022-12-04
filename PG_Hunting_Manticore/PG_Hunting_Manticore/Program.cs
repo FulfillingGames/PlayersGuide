@@ -70,8 +70,8 @@ while (cityHealth > 0 && manticoreHealth > 0)
     FireCannon();
     if (manticoreHealth > 0) cityHealth--;
     round++;
-    Console.WriteLine("Press any key to continue...");
-    Console.ReadLine();
+    //Console.WriteLine("Press any key to continue...");
+    //Console.ReadLine();
     CheckEnd();
 }
 

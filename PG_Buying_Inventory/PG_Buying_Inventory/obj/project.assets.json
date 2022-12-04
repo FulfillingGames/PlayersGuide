@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\warre\\source\\repos\\PG_Buying_Inventory\\PG_Buying_Inventory\\PG_Buying_Inventory.csproj",
+      "projectUniqueName": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Buying_Inventory\\PG_Buying_Inventory\\PG_Buying_Inventory.csproj",
       "projectName": "PG_Buying_Inventory",
-      "projectPath": "C:\\Users\\warre\\source\\repos\\PG_Buying_Inventory\\PG_Buying_Inventory\\PG_Buying_Inventory.csproj",
+      "projectPath": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Buying_Inventory\\PG_Buying_Inventory\\PG_Buying_Inventory.csproj",
       "packagesPath": "C:\\Users\\warre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\warre\\source\\repos\\PG_Buying_Inventory\\PG_Buying_Inventory\\obj\\",
+      "outputPath": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Buying_Inventory\\PG_Buying_Inventory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

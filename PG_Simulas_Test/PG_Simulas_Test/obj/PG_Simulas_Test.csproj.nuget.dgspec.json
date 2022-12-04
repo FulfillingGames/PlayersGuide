@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\warre\\source\\repos\\PG_Simulas_Test\\PG_Simulas_Test\\PG_Simulas_Test.csproj": {}
+    "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Simulas_Test\\PG_Simulas_Test\\PG_Simulas_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\warre\\source\\repos\\PG_Simulas_Test\\PG_Simulas_Test\\PG_Simulas_Test.csproj": {
+    "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Simulas_Test\\PG_Simulas_Test\\PG_Simulas_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\warre\\source\\repos\\PG_Simulas_Test\\PG_Simulas_Test\\PG_Simulas_Test.csproj",
+        "projectUniqueName": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Simulas_Test\\PG_Simulas_Test\\PG_Simulas_Test.csproj",
         "projectName": "PG_Simulas_Test",
-        "projectPath": "C:\\Users\\warre\\source\\repos\\PG_Simulas_Test\\PG_Simulas_Test\\PG_Simulas_Test.csproj",
+        "projectPath": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Simulas_Test\\PG_Simulas_Test\\PG_Simulas_Test.csproj",
         "packagesPath": "C:\\Users\\warre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\warre\\source\\repos\\PG_Simulas_Test\\PG_Simulas_Test\\obj\\",
+        "outputPath": "C:\\Users\\warre\\source\\repos\\PlayersGuide\\PG_Simulas_Test\\PG_Simulas_Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
